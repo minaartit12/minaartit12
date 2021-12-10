@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @minaartit12
 - 👀 I’m interested in explore new places! love to taliking about art, movie, exhibition, IT, music
-- 🌱 I’m currently learning Python, Java, NFT, civil law, data structure
+- 🌱 I’m currently learning Python, Java, NFT, Civil Law, Data Structure
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
