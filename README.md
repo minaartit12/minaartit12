@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @minaartit12
-- 👀 I’m interested in explore new places! love to taliking about art, movie, exhibition, IT, music
-- 🌱 I’m currently learning Python, Data Structure, SQL, ML 
+
+💛Art, Natural, IT, Movie, Music, Explore new places
+⚙️Python, EDA, MySQL, ML
+📚Computer Science, Fashion Marketing
+👩🏻‍💻https://facetofacemn.tistory.com/
 
 <!---
 minaartit12/minaartit12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
