@@ -1,4 +1,3 @@
-
 💛Art, Natural, IT, Movie, Music, Explore new places
 ⚙️Python, EDA, MySQL, ML
 📚Computer Science, Fashion Marketing
